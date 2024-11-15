@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url(typing-on-keyboard-with-fiber-optics-background-shot-in-hd_ronfybhde_thumbnail-full01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    font-size: 50px;
+    font-weight: 500;
+    color: white;
+    margin-left: 5cm;
+}
+.main{
+    margin-top: 2cm;
+    font-size: 60px;
+    font-weight: 700;
+    margin-left: 5cm;
+    color: white;
+    
+}
+.box{
+    color: aqua;
+    font-weight: 800;
+}
+.class1{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 5cm;
+    color: white;
+}
+
+.btn{
+    margin-left: 5cm;
+   height: 50px;
+   width: 100px;
+   color: black;
+   margin-right: 3cm;
+   border-radius: 2cm;
+}
